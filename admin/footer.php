@@ -3,7 +3,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.4.0
     </div>
-    <strong>Copyright &copy; 2019</strong> - Sistem Informasi Inventaris Sarana & Prasarana SMK
+    <strong>Copyright &copy; 2019</strong> - Sistem Informasi Inventaris Sarana & Prasarana SMK 
   </footer>
 
   

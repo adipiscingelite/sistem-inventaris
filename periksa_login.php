@@ -52,4 +52,4 @@ if($cek > 0){
 }else{
 	//die ("Login Gagal ");
 	header("location:index.php?alert=gagal");
-}
+}  
